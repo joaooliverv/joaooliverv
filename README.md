@@ -1,4 +1,4 @@
-# 👨🏻‍💻 João Vitor Oliveira
+# 👨🏻‍💻 João Vitor S. Oliveira
 
 **`Desenvolvedor Full-Stack em formação`**
 
