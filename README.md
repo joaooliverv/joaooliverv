@@ -26,24 +26,6 @@ Meu principal objetivo é me tornar um **Desenvolvedor Full-Stack**, criando apl
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
----
-
-# 📈 Estatísticas
-
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🎯 Objetivos para 2026
 
 - 📚 Aprimorar PHP
@@ -51,4 +33,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 - 🐍 Evoluir em Python
 - 🗄️ Aprender Banco de Dados (MySQL)
 - 🌐 Desenvolver aplicações Full-Stack
-- 🚀 Conseguir minha primeira oportunidade como Desenvolvedor Full-Stack
