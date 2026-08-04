@@ -6,8 +6,6 @@ Atualmente estou aprofundando meus estudos em **PHP**, **JavaScript** e **Python
 
 Meu principal objetivo é me tornar um **Desenvolvedor Full-Stack**, criando aplicações modernas, escaláveis e com boas práticas de desenvolvimento.
 
-# 💻 Tecnologias
-
 ### Linguagens
 
 <p align="left">
